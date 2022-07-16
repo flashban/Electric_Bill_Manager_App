@@ -1,10 +1,51 @@
 [
     {
         "id": "1",
-        "name": "John"
+        "month": "January",
+        "amount": "882",
+        "payStatus": "Paid",
+        "modeOfPayment": "Online - Phonepe"
     },
     {
         "id": "2",
-        "name": "Milan"
+        "month": "February",
+        "amount": "",
+        "payStatus": "",
+        "modeOfPayment": ""
+    },
+    {
+        "id": "3",
+        "month": "March",
+        "amount": "864",
+        "payStatus": "Paid",
+        "modeOfPayment": "Online - Phonepe"
+    },
+    {
+        "id": "4",
+        "month": "April",
+        "amount": "785",
+        "payStatus": "Paid",
+        "modeOfPayment": "Online - Phonepe"
+    },
+    {
+        "id": "5",
+        "month": "May",
+        "amount": "1047",
+        "payStatus": "Paid",
+        "modeOfPayment": "Online - Phonepe"
+    },
+    {
+        "id": "6",
+        "month": "June",
+        "amount": "842",
+        "payStatus": "Paid",
+        "modeOfPayment": "Online - Phonepe"
+    },
+    {
+        "id": "7",
+        "month": "July",
+        "amount": "961",
+        "payStatus": "Paid",
+        "modeOfPayment": "Online - Phonepe"
     }
 ]
