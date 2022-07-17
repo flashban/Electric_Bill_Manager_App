@@ -9,6 +9,13 @@ app.get('/bills', (req, res) => {
     })
 })
 
+app.get('/bills/:id', (req, res) => {
+    fs.readFile(`${__dirname}/ElectricBillApi/billapi.json`, "utf8", (err, data) => {
+        const request = req.params.
+        res.send(data);
+    })
+})
+
 app.listen(PORT, (req, res) => {
     console.log(`Starting Chrome on ${PORT}`);
 });
